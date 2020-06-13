@@ -1,0 +1,30 @@
+body{
+    background: url(1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    margin: auto;
+}
+
+#principal{
+    background-color: white;opacity: 0.8;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    font-size: 100%;
+}
+#resultado{
+      background-color: white;opacity: 0.8;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    font-size: 200%;
+}
+#numero{
+    width: 30%;
+    font-size: 100%;
+}
+label{
+    font-size: 150%;
+}
